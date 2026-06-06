@@ -1,6 +1,21 @@
 Considerando que você já utiliza Docker, Python e outras tecnologias em seus projetos, aqui está o passo a passo direto para realizar esse primeiro *push* via terminal:
 
-git init && git add . && git commit -m "Commit inicial" && git branch -M main && git remote add origin https://github.com/marcio-dev-fullstack/Folha-de-Ponto.git && git pull origin main --rebase && git push -u origin main
+Copie e cole este bloco no seu terminal:
+
+```bash
+git init && git add . && git commit -m "Commit inicial" && git branch -M main && git remote remove origin && git remote add origin https://github.com/marcio-dev-fullstack/Folha-de-Ponto.git && git pull origin main --rebase && git push -u origin main
+
+```
+
+**O que este comando faz:**
+
+1. **`git init`**: Inicializa o Git no projeto.
+2. **`git add .`**: Adiciona todos os seus arquivos.
+3. **`git commit -m "Commit inicial"`**: Salva o estado atual.
+4. **`git branch -M main`**: Define a branch principal.
+5. **`git remote add ...`**: Define o destino.
+6. **`git pull origin main --rebase`**: Traz o arquivo que já existe no GitHub (como o README) para o seu computador, evitando o erro de conflito.
+7. **`git push -u origin main`**: Envia seu projeto para o GitHub.
 
 ### 1. Preparação Local
 
