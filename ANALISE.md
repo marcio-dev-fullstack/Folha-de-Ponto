@@ -39,6 +39,7 @@ diagramas = """# Diagramas de Arquitetura - FOLHA DE PONTO
 
 ## 1. Visão Geral (Mermaid)
 
+```mermaid
 graph TD
     A["Tablet/Front-end (GitHub Pages)"] -->|Envia Foto + CPF| B["Servidor Local (FastAPI)"]
     B -->|Consulta DB| C["PostgreSQL + pgvector"]
