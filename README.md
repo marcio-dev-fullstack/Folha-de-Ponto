@@ -54,6 +54,4 @@ graph TD
 
 **Autor**: Márcio Rodrigues de Oliveira
 
-**Assinatura**: RAZGO TECNOLOGIA
-
-Desenvolvido com excelência técnica
+**Assinatura**: RAZGO Tecnologia
