@@ -18,8 +18,6 @@ git init && git add . && git commit -m "Commit inicial" && git branch -M main &&
 7. **`git pull origin main --rebase`**: Traz as alterações que já estão no GitHub (como o `README.md` criado automaticamente) para a sua máquina. O `--rebase` coloca seus novos *commits* exatamente após as mudanças que vieram do servidor, garantindo que o histórico fique limpo.
 8. **`git push -u origin main`**: Finalmente, envia todo o seu código para o servidor, estabelecendo o vínculo permanente entre sua pasta local e o repositório no GitHub.
 
-Ao rodar isso, o Git não encontrará erros de configuração prévia e sincronizará tudo de uma vez. Me avise se o terminal confirmar o sucesso da operação!
-
 ### 1. Preparação Local
 
 Abra o terminal na pasta raiz do seu projeto `Folha-de-Ponto` e execute os comandos abaixo na sequência:
