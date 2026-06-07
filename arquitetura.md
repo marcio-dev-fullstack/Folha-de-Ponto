@@ -2,9 +2,9 @@
 
 **Projeto:** FOLHA DE PONTO - Prefeitura de Conceição do Araguaia
 
-**Autor:** MARCIO
+**Autor:** MARCIO - DEVFULL
 
-**Assinatura de Desenvolvimento:** RAZGO
+**Assinatura de Desenvolvimento:** RAZGO TECNOLOGIA
 
 ---
 
@@ -51,7 +51,3 @@ Considerando a sensibilidade dos dados biométricos, o sistema implementa contro
 * **Sigilo:** Tratamento de dados biométricos sob rigorosos protocolos de proteção de informação.
 
 
-
----
-
-*Documento gerado sob a coordenação do desenvolvedor **MARCIO**. Todos os módulos do projeto são organizados sob a plataforma **RAZGO**.*
