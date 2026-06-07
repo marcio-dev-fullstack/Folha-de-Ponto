@@ -1,5 +1,3 @@
-# Criando o conteúdo dos arquivos .md solicitados
-
 # 1. Analise Funcional (requisitos_funcionais.md)
 req_func = """# Requisitos Funcionais - FOLHA DE PONTO
 **Projeto:** FOLHA DE PONTO - Prefeitura de Conceição do Araguaia
