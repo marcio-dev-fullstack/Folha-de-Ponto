@@ -52,7 +52,7 @@ git push -u origin main
 
 ---
 
-### Dicas para o seu fluxo de trabalho (MAZZ/RAZGO):
+### Dicas para o seu fluxo de trabalho:
 
 * **Arquivo `.gitignore`:** Como você utiliza Docker e ambientes virtuais Python, certifique-se de ter um arquivo `.gitignore` na raiz para evitar subir pastas como `venv/`, `__pycache__/`, ou arquivos sensíveis (`.env`, `docker-compose.override.yml`, se houver segredos).
 * **Identidade:** Se ainda não configurou, garanta que seu Git esteja com sua identificação padrão antes de subir:
