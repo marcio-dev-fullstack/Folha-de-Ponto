@@ -29,7 +29,7 @@
 """
 
 # 3. Diagramas
-## 1. Visão Geral (Mermaid)
+## 1. Visão Geral
 
 ```mermaid
 graph TD
