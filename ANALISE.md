@@ -29,9 +29,6 @@
 """
 
 # 3. Diagramas
-diagramas = """# Diagramas de Arquitetura - FOLHA DE PONTO
-**Autor:** MARCIO
-
 ## 1. Visão Geral (Mermaid)
 
 ```mermaid
