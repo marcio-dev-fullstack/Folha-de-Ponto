@@ -26,7 +26,7 @@ O **Folha de Ponto** é uma solução de engenharia voltada para a automação e
 
 ## 🏗 Arquitetura
 O sistema opera através de um fluxo otimizado:
-* **Captura**: Tablet (GitHub Pages/Front-end) envia a foto e o CPF do servidor.
+* **Captura**: Computador Local, envia a foto e o CPF do servidor para a nuvem.
 * **Processamento**: O Servidor FastAPI processa a biometria via InsightFace e consulta o PostgreSQL.
 * **Resultado**: Confirmação do ponto registrada e retornada para o usuário final.
 
