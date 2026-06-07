@@ -57,7 +57,7 @@ git push -u origin main
 * **Arquivo `.gitignore`:** Como você utiliza Docker e ambientes virtuais Python, certifique-se de ter um arquivo `.gitignore` na raiz para evitar subir pastas como `venv/`, `__pycache__/`, ou arquivos sensíveis (`.env`, `docker-compose.override.yml`, se houver segredos).
 * **Identidade:** Se ainda não configurou, garanta que seu Git esteja com sua identificação padrão antes de subir:
 ```bash
-git config --global user.name "Márcio Rodrigues de Oliveira"
+git config --global user.name "Márcio"
 git config --global user.email "seu-email@exemplo.com"
 
 ```
