@@ -1,5 +1,3 @@
-Considerando que você já utiliza Docker, Python e outras tecnologias em seus projetos, aqui está o passo a passo direto para realizar esse primeiro *push* via terminal:
-
 Copie e execute esta linha única no seu terminal:
 
 ```bash
