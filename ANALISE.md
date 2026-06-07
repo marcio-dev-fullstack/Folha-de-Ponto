@@ -1,7 +1,8 @@
 # 1. Analise Funcional
 # Requisitos Funcionais - FOLHA DE PONTO
 **Projeto:** FOLHA DE PONTO - Prefeitura de Conceição do Araguaia
-**Autor:** MARCIO
+
+**Autor:** Márcio Rodrigues de Oliveira - Engenheiro de Software
 
 ## Requisitos Funcionais (RF)
 
