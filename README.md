@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Folha-de-Ponto
+# 📊 Folha de Ponto
 
 **Sistema de Controle de Frequência Biométrica para Administração Pública**
 
