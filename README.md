@@ -35,17 +35,5 @@ O sistema opera através de um fluxo otimizado:
 ## 👤 Desenvolvedor
 
 * **Autor**: Márcio Rodrigues de Oliveira
-* **Assinatura**: RAZGO
-* **Plataforma**: MAZZ
+* **Assinatura**: RAZGO TECNOLOGIA
 
----
-
-### Como aplicar este README:
-
-1. No seu VS Code, crie ou abra o arquivo `README.md` na raiz do projeto.
-2. Cole este conteúdo, salvando as alterações.
-3. Utilize os comandos abaixo para subir a versão final:
-```bash
-git add README.md && git commit -m "Atualizando documentação profissional" && git push
-
-```
