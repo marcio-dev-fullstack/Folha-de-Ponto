@@ -2,7 +2,7 @@
 
 **Projeto:** FOLHA DE PONTO - Prefeitura de Conceição do Araguaia
 
-**Autor:** MARCIO - DEVFULL
+**Autor:** MARCIO RODRIGUES DE OLIVEIRA- ENGENHEIRO DE SOFTWARE
 
 **Assinatura de Desenvolvimento:** RAZGO TECNOLOGIA
 
@@ -29,7 +29,7 @@ Para assegurar escalabilidade e eficiência, a arquitetura proposta utiliza:
 
 
 
-## 3. Roadmap de Desenvolvimento (MAZZ Platform)
+## 3. Roadmap de Desenvolvimento
 
 | Fase | Ação | Descrição |
 | --- | --- | --- |
