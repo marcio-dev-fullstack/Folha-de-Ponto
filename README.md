@@ -1,4 +1,4 @@
-# Folha-de-Ponto
+# Folha de Ponto
 
 Este sistema foi desenvolvido para atender às necessidades de controle de frequência de servidores públicos, integrando tecnologias modernas para garantir segurança, precisão e eficiência na gestão de pessoal.
 
