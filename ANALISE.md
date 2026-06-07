@@ -17,10 +17,6 @@
 """
 
 # 2. Analise Não Funcional 
-req_nao_func = """# Requisitos Não Funcionais - FOLHA DE PONTO
-**Projeto:** FOLHA DE PONTO - Prefeitura de Conceição do Araguaia
-**Autor:** MARCIO
-
 ## Requisitos Não Funcionais (RNF)
 
 | ID | Categoria | Descrição |
