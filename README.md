@@ -32,7 +32,7 @@ O sistema opera através de um fluxo otimizado:
 
 ```mermaid
 graph TD
-    A["Computador Local (Front-end)"] -->|Envia Foto + CPF| B["Servidor FastAPI"]
+    A["Computador Local"] -->|Envia Foto + CPF| B["Servidor FastAPI"]
     B -->|Consulta DB| C["PostgreSQL + pgvector"]
     B -->|Processa Biometria| D["InsightFace API"]
     C -->|Retorna Resultado| B
