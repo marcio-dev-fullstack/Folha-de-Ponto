@@ -26,13 +26,13 @@ O **Folha de Ponto** é uma solução de engenharia voltada para a automação e
 
 ## 🏗 Arquitetura
 O sistema opera através de um fluxo otimizado:
-* **Captura**: Computador Local, envia a foto e o CPF do servidor para a nuvem.
+* **Captura**: Computador Local (Front-end), envia a foto e o CPF do servidor para a nuvem.
 * **Processamento**: O Servidor FastAPI processa a biometria via InsightFace e consulta o PostgreSQL.
 * **Resultado**: Confirmação do ponto registrada e retornada para o usuário final.
 
 ```mermaid
 graph TD
-    A["Tablet/Front-end"] -->|Envia Foto + CPF| B["Servidor FastAPI"]
+    A["Computador Local (Front-end)"] -->|Envia Foto + CPF| B["Servidor FastAPI"]
     B -->|Consulta DB| C["PostgreSQL + pgvector"]
     B -->|Processa Biometria| D["InsightFace API"]
     C -->|Retorna Resultado| B
