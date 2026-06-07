@@ -14,7 +14,7 @@
 </div>
 
 ## 📌 Visão Geral
-O **Folha-de-Ponto** é uma solução de engenharia voltada para a automação e transparência. Desenvolvido para atuar com alta disponibilidade, utiliza reconhecimento facial para garantir que o registro seja seguro e inviolável.
+O **Folha de Ponto** é uma solução de engenharia voltada para a automação e transparência. Desenvolvido para atuar com alta disponibilidade, utiliza reconhecimento facial para garantir que o registro seja seguro e inviolável.
 
 ## ⚙️ Stack Tecnológico
 | Categoria | Tecnologia |
