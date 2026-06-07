@@ -1,4 +1,4 @@
-# 1. Analise Funcional (requisitos_funcionais.md)
+# 1. Analise Funcional
 req_func = """# Requisitos Funcionais - FOLHA DE PONTO
 **Projeto:** FOLHA DE PONTO - Prefeitura de Conceição do Araguaia
 **Autor:** MARCIO
@@ -15,7 +15,7 @@ req_func = """# Requisitos Funcionais - FOLHA DE PONTO
 | RF06 | Gestão de Relatórios | O sistema deve gerar relatórios de frequência para a administração pública. |
 """
 
-# 2. Analise Não Funcional (requisitos_nao_funcionais.md)
+# 2. Analise Não Funcional 
 req_nao_func = """# Requisitos Não Funcionais - FOLHA DE PONTO
 **Projeto:** FOLHA DE PONTO - Prefeitura de Conceição do Araguaia
 **Autor:** MARCIO
@@ -31,7 +31,7 @@ req_nao_func = """# Requisitos Não Funcionais - FOLHA DE PONTO
 | RNF05 | Escalabilidade | O banco de dados deve suportar o crescimento da base de servidores da prefeitura. |
 """
 
-# 3. Diagramas (arquitetura_diagramas.md)
+# 3. Diagramas
 diagramas = """# Diagramas de Arquitetura - FOLHA DE PONTO
 **Autor:** MARCIO
 
