@@ -13,7 +13,7 @@ git init && git add . && git commit -m "Commit inicial" && git branch -M main &&
 2. **`git add .`**: Adiciona todos os arquivos da pasta ao índice do Git, preparando-os para o próximo *commit*.
 3. **`git commit -m "Commit inicial"`**: Cria um ponto de salvamento oficial com todos os arquivos adicionados, rotulado como "Commit inicial".
 4. **`git branch -M main`**: Renomeia a branch local para `main`, garantindo que ela corresponda ao padrão do GitHub.
-5. **`git remote remove origin`**: **Este é o ponto crucial.** Ele limpa qualquer configuração de servidor remoto que já exista, evitando o erro de "origin already exists" que você encontrou em **image_c635a0.png**.
+5. **`git remote remove origin`**: **Este é o ponto crucial.** Ele limpa qualquer configuração de servidor remoto que já exista, evitando o erro de "origin already exists".
 6. **`git remote add origin [https://github.com/marcio-dev-fullstack/Folha-de-Ponto.git](https://github.com/marcio-dev-fullstack/Folha-de-Ponto.git)`**: Define o endereço do seu projeto no GitHub como o destino remoto oficial.
 7. **`git pull origin main --rebase`**: Traz as alterações que já estão no GitHub (como o `README.md` criado automaticamente) para a sua máquina. O `--rebase` coloca seus novos *commits* exatamente após as mudanças que vieram do servidor, garantindo que o histórico fique limpo.
 8. **`git push -u origin main`**: Finalmente, envia todo o seu código para o servidor, estabelecendo o vínculo permanente entre sua pasta local e o repositório no GitHub.
