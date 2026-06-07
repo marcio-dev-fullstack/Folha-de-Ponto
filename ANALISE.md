@@ -33,7 +33,7 @@
 
 ```mermaid
 graph TD
-    A["Tablet/Front-end (GitHub Pages)"] -->|Envia Foto + CPF| B["Servidor Local (FastAPI)"]
+    A["Servidor Local"] -->|Envia Foto + CPF| B["Servidor Local (FastAPI)"]
     B -->|Consulta DB| C["PostgreSQL + pgvector"]
     B -->|Processa Biometria| D["InsightFace API"]
     C -->|Retorna Resultado| B
